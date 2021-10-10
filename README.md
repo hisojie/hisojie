@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hisojie
+- 👀 I’m interested in mechanics 
+- 🌱 I’m currently learning coding
